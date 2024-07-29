@@ -1,0 +1,10 @@
+.backgroundd {
+    background-image: url('https://img.freepik.com/premium-photo/beautiful-brazilian-caucasian-woman-beautician-cosmetologist-surprised-wow-invrible-surprise-astonishment-shocked-pointing-right_579344-550.jpg?w=740'); /* Replace with the path to your image */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  

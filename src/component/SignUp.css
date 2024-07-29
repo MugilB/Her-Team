@@ -1,0 +1,10 @@
+.background {
+    background-image: url('https://img.freepik.com/premium-photo/portrait-beautiful-cheerful-young-brunette-woman-with-bright-makeup-wearing-fashionable-clothes-standing-isolated-pink-wall-holding-purse-posing_171337-119110.jpg?w=740'); /* Replace with the direct link to your image */
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  

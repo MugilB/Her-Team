@@ -1,0 +1,15 @@
+.navbar-image {
+  display: flex;
+  min-height: 100vh;
+  background-image: url('https://img.freepik.com/free-photo/portrait-excited-hopeful-blond-girl-making-wish-crossed-fingers-good-luck-close-eyes-smiling-putting-all-effort-into-pray-pleading-dream-come-true-anticipating-pink-background_1258-92901.jpg?t=st=1721969278~exp=1721972878~hmac=be6114c1391bbc2f45a9a914a8d74ad379bf22fbbad911bcaf7508bb241f9c4f&w=1380'); /* Replace with your image path */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.app-bar {
+  background-color: #f06292; /* Pink color */
+  border-radius: 16px; /* Rounded bottom corners */
+  box-shadow: none; /* Optional: remove shadow */
+}
+
